@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-// Zarzadzanie Projektami Informatycznymi - Kolokwium zaliczeniowe - 3 czerwca 2011
-// Imie Nazwisko, grupa(sepcjalnosc), nr. indeksu
-=======
 #include<iostream>
 using namespace std;
 >>>>>>> cout
